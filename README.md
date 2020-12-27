@@ -1,1 +1,1 @@
-# TREX-GAME
+# Infinite Runner Game
